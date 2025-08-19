@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Привет — я Артём
 
-<!--
-**Segnit1es/Segnit1es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Кратко обо мне 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Начинающий разработчик / студент по специальности "Программная инженерия". Практически ориентирован, имею опыт стажировки. Люблю разбираться в алгоритмах, архитектуре ПО и интерфейсах. Английский — B1.
+
+---
+
+## 🚀 Чем занимаюсь сейчас
+- Разрабатываю учебные и практические проекты на **C++/Qt** и **Python**  
+- Учусь строить аккуратную архитектуру: модульность, тестируемость и удобный UI  
+- Поддерживаю личный репозиторий с проектами и примерами кода: **https://github.com/Segnit1es**
+
+---
+
+## 💼 Опыт / направления
+- Backend / system programming (Python, C++)  
+- GUI приложения на **Qt (C++)**  
+- Веб-разработка (Flask, Django)  
+
+---
+
+## 🛠 Технический стек
+**Языки:** `C++`, `Python`, `PHP`, `HTML`, `JavaScript`, `MATLAB`  
+**Фреймворки / библиотеки:** `Qt`, `Flask`, `Django`  
+**БД и хранилища:** `PostgreSQL`, `SQLite`  
+**Инструменты:** `Git`, `Docker`, `Linux`, `Visual Studio`, `Qt Creator`  
+**Технологии:** Web, GUI, алгоритмы, тестирование, CI
+
+---
+
+## 📚 Навыки
+- SQL, Git, системное программирование на C++  
+- Разработка GUI (Qt Widgets / QGraphics / OpenGL)  
+- Backend (Flask/Django/FastAPI) и API  
+- Основы DevOps / контейнеризация  
+- Английский — B1 (чтение технической документации)
+
+---
+
+
+## 📄 Образование
+**СПбГУАП** — Институт информационных технологий и программирования  
+Специальность: Программная инженерия (бакалавриат), выпуск 2027
+
+---
+
+
+## 📫 Контакты
+- ✉️ Email: [thhelyutov@gmail.com](mailto:thhelyutov@gmail.com)  
+
+---
+
+
+## 🎯 Цели
+- Совершенствовать навыки в C++/Qt и backend-разработке  
+- Участвовать в реальных проектах (полная занятость)  
+- Работать над задачами по обработке данных и архитектуре сервисов
